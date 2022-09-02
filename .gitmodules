@@ -1,0 +1,6 @@
+[submodule "meme-generator"]
+	path = meme-generator
+	url = git@github.com:happytomatoe/meme-generator.git
+[submodule "near-earth-objects"]
+	path = near-earth-objects
+	url = git@github.com:happytomatoe/near-earth-objects.git
